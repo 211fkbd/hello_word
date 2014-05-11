@@ -2,7 +2,7 @@
 
 int main()
 {
-
-	printf("zou ni !!\n");
+	int a = 1;
+	printf("zou ni !! %d\n", a);
 }
 
